@@ -15,7 +15,7 @@ Botun kurulumuna ve anlatımına [YouTube](https://youtube.com/@ClydeResmi) kana
 1. Bu projeyi klonlayın veya indirin.
 
     ```bash
-    git clone https://github.com/clydeofficial/v14-çekiliş-bot.git
+    git clone https://github.com/clydeofficial/v14-cekilis-botu.git
     ```
 
 2. Proje klasöründe cmd'yi aktifleştirin.
